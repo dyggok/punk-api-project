@@ -1,35 +1,25 @@
-# Punk API Project
+## 🍻 Punk Api Project 🍻
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://media.giphy.com/media/YW8oN9LOrAyc/giphy.gif">
 
-## Available Scripts
+### 🍺 Demo Link: [Click!](https://the-fellowship-of-the-beer.netlify.app/)
 
-In the project directory, you can run:  
+##### 🍺  API Link: [Click!](https://punkapi.com/documentation/v2)
 
-### `npm install`
+🍺 On the website we created using the API, you can list the beers, filter according to the desired options, and also search by the entered name.
 
-### `npm start`
+🍺 In this site we created using React, beers come page by page.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🍺 In addition, page colors and format were designed with the help of css and bootstrap.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🍻 Tecnologies 🍻 
 
-### `npm run build`
+- React, React Router Dom, Javascript, CSS, Bootstrap. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.  
-
-## Team Members
+#### The FellowShip of Beer (Team Members)
 
 [Yurdagül Olgun](https://github.com/yurdagulOlgun)  
 [Şahinde Nur Yereşen](https://github.com/nuryeresen)  
 [Duygu Gök](https://github.com/dyggok)  
 
-### The Fellowship Of The Beer  
+
